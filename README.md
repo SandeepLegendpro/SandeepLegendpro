@@ -9,7 +9,8 @@
 
  <img src="https://raw.githubusercontent.com/itzsandeepshrma/itzsandeepshrma/master/wave.gif" width="28"></h1>
 
-![IMG_20210331_145900](https://mallucampaign.in/images/img_1706272627.jpg)
+![IMG_20210331_145900](https://github.com/SandeepLegendpro/SandeepLegendpro/assets/104634763/9ebdc1de-0762-4dd9-9bee-30cd32a07ccc)
+
 
 
 
