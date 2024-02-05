@@ -25,7 +25,8 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=nobitaaxd&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/nobitaaxd)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=nobitaaxd&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/nobitaaxd)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobitaaxd&layout=compact&theme=chartreuse-dark)](https://github.com/nobitaaxd)
 [<img src="https://github.com/nobitaaxd/nobitaaxd/blob/master/resources/hr.gif"/>](https://github.com/nobitaaxd)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nobitaaxd&repo=Japanese-Userbot&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)](https://github.com/Japanese-Userbot/Japanese-X-Userbot)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Japanese-Userbot&repo=Japanese-X-Userbot&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
+
 
 
 ### 𝐍𝐎𝐓𝐈𝐂𝐄 ❤️✨
